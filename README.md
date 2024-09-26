@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [null]
 
-- 👨‍💻 All of my projects are available at [No.](No.)
+- 👨‍💻 All of my projects are available at [No.]
 
 - 📝 I regularly write articles on []
 
